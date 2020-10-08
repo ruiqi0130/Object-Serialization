@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serialization>
+    <std_map>
+        <Key>
+            <item>first</item>
+            <item>second</item>
+            <item>third</item>
+        </Key>
+        <Val>
+            <item>1</item>
+            <item>2</item>
+            <item>3</item>
+        </Val>
+    </std_map>
+</serialization>
