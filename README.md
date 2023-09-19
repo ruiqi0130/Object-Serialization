@@ -2,7 +2,6 @@
 
 ---
 
-*produced by Rachel-Kirkland*
 
 *Inspiration came from*
 
